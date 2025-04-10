@@ -1,5 +1,5 @@
 import json
-import boto3
+import my changes adarsh
 
 def lambda_handler(event, context):
     client = boto3.client('ec2')
